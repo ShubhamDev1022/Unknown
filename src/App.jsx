@@ -1,6 +1,6 @@
 import Home from './components/Home';
 import { useState, useEffect } from 'react';
-import image1 from '/public/precious.png';
+import image1 from '/precious.png';
 // import image2 from '/2.jpg';
 // import image3 from '/3.jpg';
 // import video1 from '/v1.mp4';
